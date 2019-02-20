@@ -1,0 +1,43 @@
+{
+"profile":{
+  "img":"download.jpg",
+  "name":"raji",
+  "rollno":"17nn1a1222",
+  "place":"chirala",
+  "email":"rajasreejagarlamudi99@gmail.com"
+},
+  "career":{
+    "info":"i want to seek a job in reputed company to explore my taughts for the company"
+  },
+  "education":[
+     {
+       "degree":"btech",
+       "institute":"vignan",
+       "per":"80%",
+       "yop":"2018"
+     },
+           {
+"degree":  "inter",
+"institute":"vignan",
+"per":"80%",
+"yop":"2016"
+},
+{
+  "degree":"ssc",
+  "institute":"oxford",
+  "per":"80%",
+  "yop":"2015"
+}
+],
+"languages":[
+  {
+    "info":"english"
+  },
+  {
+    "info":"telugu"
+  },
+  {
+    "info":"hindi"
+  }
+]
+}
